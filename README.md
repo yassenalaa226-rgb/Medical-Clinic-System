@@ -23,3 +23,20 @@ The main dashboard displays:
 ## Project Structure
 - main.py
 - backend.py
+   
+## Screenshots
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### Patients
+![Patients](Patients.png)
+
+### Appointments
+![Appointments](Appointments.png)
+
+### Doctors
+![Doctors](Doctors.png)
+
+### Settings - Dark Mode
+![Settings](Settings-Dark-Mode.pn
