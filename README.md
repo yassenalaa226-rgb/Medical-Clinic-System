@@ -39,4 +39,4 @@ The main dashboard displays:
 ![Doctors](Doctors.png)
 
 ### Settings - Dark Mode
-![Settings](Settings-Dark-Mode.pn
+![Settings](Settings-Dark-Mode.png)
